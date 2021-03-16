@@ -1,0 +1,9 @@
+main: com.elizabeth.bungeetestlobby.Main
+name: BungeeLobby
+version: 1.0
+
+commands:
+
+author: betty
+description: This plugin implements a simple communication between servers!
+api-version: 1.16
